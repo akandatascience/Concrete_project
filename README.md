@@ -1,5 +1,7 @@
 # Concrete_project
 
+Project is performed with collaboration with Adil Aziz
+
 reference: https://www.kaggle.com/datasets/elikplim/concrete-compressive-strength-data-set
 
 About Dataset
